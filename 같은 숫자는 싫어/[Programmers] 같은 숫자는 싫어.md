@@ -40,7 +40,7 @@
 
 ### Code
 
-```c++
+```cpp
 #include <vector>
 #include <algorithm>
 
